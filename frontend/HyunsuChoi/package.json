@@ -1,17 +1,24 @@
 {
-  "name": "root",
+  "name": "notes",
   "private": true,
   "workspaces": [
-	  "html-container",
-	  "html-css-test-app"
+    "html-container",
+    "html-css-test-app",
+    "javascript-test-app",
+    "kakao-authentication",
+    "navigation-bar-app",
+    "vuetify-tailwind-board-app",
+    "react-test-app"
   ],
   "scripts": {
-	  "bootstrap": "lerna bootstrap",
-	  "start": "lerna run start --parallel"
+    "start": "lerna run start --parallel"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
-    "external-remotes-plugin": "^1.0.0",
     "lerna": "^8.2.2"
+  },
+  "dependencies": {
+    "@rspack/binding": "^1.3.15",
+    "lightningcss": "^1.30.1"
   }
 }

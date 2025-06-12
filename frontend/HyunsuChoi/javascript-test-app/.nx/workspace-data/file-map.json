@@ -1,0 +1,227 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.8.2",
+  "pathMappings": {
+    "*": [
+      "./@mf-types/*"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".babelrc",
+        "hash": "5336350591652325276"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "11904718991324175022"
+      },
+      {
+        "file": "Dockerfile",
+        "hash": "4278700520484510268"
+      },
+      {
+        "file": "index.html",
+        "hash": "10137528743397754489"
+      },
+      {
+        "file": "module-federation.config.ts",
+        "hash": "3349558809900820460"
+      },
+      {
+        "file": "nginx.conf",
+        "hash": "15769123031412944869"
+      },
+      {
+        "file": "package.json",
+        "hash": "6686112257758376915"
+      },
+      {
+        "file": "postcss.config.mjs",
+        "hash": "5511442426987897172"
+      },
+      {
+        "file": "rspack.config.ts",
+        "hash": "9144618374644843812"
+      },
+      {
+        "file": "src/App.tsx",
+        "hash": "4428511394856346305"
+      },
+      {
+        "file": "src/array/ArrayFlatExample.tsx",
+        "hash": "2849094805616663211"
+      },
+      {
+        "file": "src/array/ArrayReduceExample.tsx",
+        "hash": "17425059989305431966"
+      },
+      {
+        "file": "src/array/ArraySliceExample.tsx",
+        "hash": "8993781491694519175"
+      },
+      {
+        "file": "src/array/ArraySpliceExample.tsx",
+        "hash": "3014392921662732848"
+      },
+      {
+        "file": "src/array/condition/ArrayEveryExample.tsx",
+        "hash": "8840719154549846535"
+      },
+      {
+        "file": "src/array/condition/ArraySomeExample.tsx",
+        "hash": "2070136641252462330"
+      },
+      {
+        "file": "src/array/search/ArrayFindExample.tsx",
+        "hash": "14354357856725481085"
+      },
+      {
+        "file": "src/array/search/ArrayIncludesExample.tsx",
+        "hash": "2028716250883865063"
+      },
+      {
+        "file": "src/array/search/ArrayIndexOfExample.tsx",
+        "hash": "4430814857836213025"
+      },
+      {
+        "file": "src/array/sort/ArrayReverseExample.tsx",
+        "hash": "5647354902662336492"
+      },
+      {
+        "file": "src/array/sort/ArraySortExample.tsx",
+        "hash": "7934532448399519929"
+      },
+      {
+        "file": "src/array/store/ArrayPopExample.tsx",
+        "hash": "10152807495157030805"
+      },
+      {
+        "file": "src/array/store/ArrayPushExample.tsx",
+        "hash": "18077629633150534569"
+      },
+      {
+        "file": "src/array/store/ArrayShiftExample.tsx",
+        "hash": "2458370749682348714"
+      },
+      {
+        "file": "src/array/store/ArrayUnShiftExample.tsx",
+        "hash": "4461822053334893344"
+      },
+      {
+        "file": "src/bootstrap.tsx",
+        "hash": "13839760172542341788"
+      },
+      {
+        "file": "src/control_flow/ControlFlowFor.tsx",
+        "hash": "10649949965208527542"
+      },
+      {
+        "file": "src/control_flow/ControlFlowForEach.tsx",
+        "hash": "11644941960062461158"
+      },
+      {
+        "file": "src/control_flow/ControlFlowIf.tsx",
+        "hash": "9192629992747796858"
+      },
+      {
+        "file": "src/control_flow/ControlFlowSwitch.tsx",
+        "hash": "6039694378530469675"
+      },
+      {
+        "file": "src/data_type/VariableAndDataTypes.tsx",
+        "hash": "15811385850512687427"
+      },
+      {
+        "file": "src/filter/FilterExample.tsx",
+        "hash": "6645250218146346235"
+      },
+      {
+        "file": "src/index.css",
+        "hash": "4645570607630753465"
+      },
+      {
+        "file": "src/index.ts",
+        "hash": "876476442987263623"
+      },
+      {
+        "file": "src/index.tsx",
+        "hash": "1038546847612857257"
+      },
+      {
+        "file": "src/logical_operation/LogicalOperationExample.tsx",
+        "hash": "5294551328273066302"
+      },
+      {
+        "file": "src/map/MapExample.tsx",
+        "hash": "8926462774118866377"
+      },
+      {
+        "file": "src/math_operation/CalculationExample.tsx",
+        "hash": "14945600860018507320"
+      },
+      {
+        "file": "src/quiz/EmergencyQuiz.tsx",
+        "hash": "1157631026675349083"
+      },
+      {
+        "file": "src/quiz/FirstQuiz.tsx",
+        "hash": "13712118228213278659"
+      },
+      {
+        "file": "src/quiz/SecondQuiz.tsx",
+        "hash": "1231917677080643685"
+      },
+      {
+        "file": "src/quiz/ThirdQuiz.tsx",
+        "hash": "8581645888372749301"
+      },
+      {
+        "file": "src/quiz2/FirstProblemVersionOne.tsx",
+        "hash": "4967952051876011330"
+      },
+      {
+        "file": "src/quiz2/FirstProblemVersionThree.tsx",
+        "hash": "3504357561690288882"
+      },
+      {
+        "file": "src/quiz2/FirstProblemVersionTwo.tsx",
+        "hash": "11094427487972051632"
+      },
+      {
+        "file": "src/quiz2/SecondProblemVersionOne.tsx",
+        "hash": "2788978842492685657"
+      },
+      {
+        "file": "src/quiz2/SecondProblemVersionThree.tsx",
+        "hash": "7302927466232410883"
+      },
+      {
+        "file": "src/quiz2/SecondProblemVersionTwo.tsx",
+        "hash": "12006883162431245607"
+      },
+      {
+        "file": "src/quiz2/ThirdProblem.tsx",
+        "hash": "4413437774768121075"
+      },
+      {
+        "file": "src/regular_expression/RegularExpression.tsx",
+        "hash": "1435166255717987396"
+      },
+      {
+        "file": "src/string_test/StringExample.tsx",
+        "hash": "18322406148357272743"
+      },
+      {
+        "file": "src/type_convert/TypeCoercion.tsx",
+        "hash": "859612682456890619"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "2167429044135916994"
+      }
+    ]
+  }
+}
